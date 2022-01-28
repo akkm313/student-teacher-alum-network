@@ -1,4 +1,6 @@
 
 # STAN - STUDENT TEACHER ALUMNI NETWORK
 
-mini project
+Govt. Model Engineering college Undergraduate Mini project (2016).
+
+Developed by Akshay KM , Aasif Faizal
